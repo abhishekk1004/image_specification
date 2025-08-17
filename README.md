@@ -399,19 +399,14 @@ in the Software without restriction...
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- GitHub: [@abhishekk1004](https://github.com/abhishekk1004)
+- LinkedIn: [Abhishek Kushwaha](https://www.linkedin.com/in/abhishekkushwaha-py/)
 
 ## 📞 Support
 
 If you have any questions or run into issues:
 
-1. **Check the [Issues](https://github.com/yourusername/cats-vs-dogs-classification/issues)** page
-2. **Create a new issue** with detailed description
-3. **Join our [Discord Community](https://discord.gg/yourlink)** for discussions
-4. **Email us** at support@yourproject.com
+1. **Check the [Issues](https://github.com/abhishekk1004/image_specification/issues)** page
 
 ---
 
@@ -426,4 +421,4 @@ If you have any questions or run into issues:
 
 ---
 
-*Made with ❤️ and lots of ☕ by [Your Name]*
+*Made with ❤️ and lots of ☕ by Abhishek*
