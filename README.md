@@ -169,7 +169,7 @@ print(f"Test Accuracy: {test_accuracy:.2%}")
 ## 📈 Training Results
 
 ### Training Progress
-![Training History](images/training_history.png)
+![Training History](images/model_accuracy.png)
 
 ### Model Performance
 - **Training Accuracy**: 98.5%
@@ -178,7 +178,7 @@ print(f"Test Accuracy: {test_accuracy:.2%}")
 - **Training Time**: ~45 minutes (GPU)
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/img_spd.png)
 
 ## 🎨 Data Augmentation Techniques
 
@@ -196,11 +196,6 @@ train_datagen = ImageDataGenerator(
     fill_mode='nearest'      # Fill pixels after transformation
 )
 ```
-
-### Augmentation Examples
-| Original | Rotated | Flipped | Zoomed |
-|----------|---------|---------|--------|
-| ![Original](images/augmentation/original.jpg) | ![Rotated](images/augmentation/rotated.jpg) | ![Flipped](images/augmentation/flipped.jpg) | ![Zoomed](images/augmentation/zoomed.jpg) |
 
 ## 🔬 Advanced Features
 
@@ -231,22 +226,14 @@ def generate_gradcam(model, img_path):
     pass
 ```
 
-## 📱 Web App Demo
 
-Deploy the model using Streamlit:
-
-```bash
-streamlit run app.py
-```
-
-![Web App](images/web_app_demo.png)
 
 ## 🛠️ Project Structure
 
 ```
 cats-vs-dogs-classification/
 ├── src/
-│   ├── cats_dogs_classifier.py    # Main classifier class
+│   ├── img_classification.py    # Main classifier class
 │   ├── data_preprocessing.py      # Data handling utilities
 │   ├── model_utils.py            # Model helper functions
 │   └── visualization.py          # Plotting utilities
